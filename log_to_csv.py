@@ -22,3 +22,8 @@ with open(path+inputfile, "r+") as f:
      outf.close()
      print(inputfile+" >>> "+outputfile)
      print(str(len(data))+" Rows converted")
+     print("")
+     print("Source: https://github.com/biejay/tarpit_log_to_csv/")
+     print("")
+     print("Analyse your CSV now via: https://github.com/biejay/SSH-Tarpit-R-Analyse/")
+     print("")
